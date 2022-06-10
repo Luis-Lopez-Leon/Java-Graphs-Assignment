@@ -55,6 +55,7 @@ OF THIS TREE. For example in order to find the adjacent vertices of a given vert
 CANNOT TRAVERSE THE BST, YOU SHOULD USE THE ADJACENCY MATRIX.
 PLEASE BE ADVISED THAT ANY TREE OPERATION IS GOING TO BE CONSIDERED
 VOID FOR THIS PROBLEM. THIS IS NOT A TREE PROGRAM!
+
 Here are additional explanations of some of the menu options:
 **Option 4.** Here is an example of this option referring to figure 13.5 on page 625 in the
 textbook (acknowledging that our graph will be based on a BST and will look differently than
