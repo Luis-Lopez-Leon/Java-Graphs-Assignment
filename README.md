@@ -57,6 +57,7 @@ PLEASE BE ADVISED THAT ANY TREE OPERATION IS GOING TO BE CONSIDERED
 VOID FOR THIS PROBLEM. THIS IS NOT A TREE PROGRAM!
 
 Here are additional explanations of some of the menu options:
+
 **Option 4.** Here is an example of this option referring to figure 13.5 on page 625 in the
 textbook (acknowledging that our graph will be based on a BST and will look differently than
 this figure): If the user enters letter A, The following would be ALL the paths in a depth first
@@ -65,6 +66,7 @@ ABFH
 AC
 ADGI
 AE
+
 **Option 5.** Referring to the Figure 13.5 example again: if the input is letter G, the one edge
 apart vertices would be D and I.
 Please note that for options 4 and 5, you should modify the code in the book so that you can
