@@ -70,6 +70,7 @@ Please note that for options 4 and 5, you should modify the code in the book so 
 specify the index of the vertex you would like to choose as starting point. Currently the code
 starts at index 0 (hard coded for this value.) you need to change that. Again you can safely
 assume the user input will be valid.
+
 **Option 6.** Again referring to the above example: given vertex A, the vertices two edges away
 would be: F and G. Obviously in case no vertices fit the criteria, you should display a message
 accordingly.
